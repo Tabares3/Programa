@@ -3,3 +3,6 @@ yfinance
 pandas
 ta
 feedparser
+plotly
+scikit-learn
+numpy
